@@ -1,0 +1,2 @@
+# IntelFPGA 19.1 Env Setup
+- Somehow quartus is not able to find the correct Perl lib. It reports missing GetOpt::Long. To fix this, one would need to manually add the lib path to PERL5LIB in the .bashrc file.
